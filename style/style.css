@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(19, 18, 18);
+    color: white;
+} 
+
+.navbar {
+    flex-wrap: nowrap;
+}
+
+.navbar-toggler-icon {
+   filter: invert(1);
+}
+
+.navbar-brand img {
+    width: 300px;
+}
